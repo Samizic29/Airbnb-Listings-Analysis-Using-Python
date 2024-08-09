@@ -13,7 +13,7 @@
 2. Which attributes have the biggest influence in price?
 3. Are you able to identify any trends or seasonality in the listings data?
 
-**Tools Used:** Python, Pandas (data manipulation), BeautiSoup(Web scraping), Matplotlib / Seaborn (data visualization)
+**Tools Used:** Pandas (data manipulation), Matplotlib / Seaborn (data visualization)
 
 ## Data Wrangling
 > In this section, the dataset are gathered, assessed for quality and tidiness issues and cleaned for further analysis and visualizations.
